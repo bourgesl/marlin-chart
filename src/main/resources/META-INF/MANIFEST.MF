@@ -1,0 +1,5 @@
+Built-By: Marlin renderer team
+Built-Date: ${timestamp}
+Implementation-Title: Marlin-Chart
+Implementation-Version: ${project.version}
+Main-Class: org.marlin.chart.TestDraw
