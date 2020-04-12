@@ -11,15 +11,14 @@ Build:
 ```mvn verify```
 
 Edit your JDK (zulu 8, openjdk8):
-See env-*.sh
+```vi env.sh```
 
 Run:
 - OpenJDK8:
-`̀̀ `./run-ojdk8-marlin.sh```
+```./run-ojdk8-marlin.sh```
 - OpenJDK8 + Marlin release 0.9.4.3:
-`̀̀ `./run-ojdk8-marlin.sh```
+```./run-ojdk8-marlin.sh```
 - Zulu8:
-`̀̀ `./test-zulu8.sh```
+```./test-zulu8.sh```
 
 Enjoy FOSS !
-
